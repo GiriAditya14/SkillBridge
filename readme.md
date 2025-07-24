@@ -158,3 +158,22 @@ src/
 ├── services/         # API communication services
 └── App.jsx           # Main application file
 ```
+
+---
+
+## 👥 Team
+- Aditya Giri – Handled backend development, database modeling, API integration, and route protection.
+- Kanak Gupta – Contributed to frontend development with responsive design, route integration, state management and page optimizations.
+- Chaitanya Sharma – Managed backend deployment and ensured smooth coordination under pressure.
+- Aadarsh Dangi – Handled frontend development and UI design.
+
+---
+
+## 📃 License
+Licensed under the MIT License.
+
+---
+
+## 🤝 Acknowledgements
+- MNNIT Allahabad for hosting Hack36 8.0
+- Hackathon Mentors and Judges for valuable feedback
